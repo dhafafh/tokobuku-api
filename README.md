@@ -1,4 +1,5 @@
 Dhafa Firjatullah Hikmal (362358302074) Praktikum:
+
 ![prak_1](https://github.com/user-attachments/assets/c5e7fd16-c3a0-4056-9319-3ac1bcfb26cb)
 ![prak_1 2](https://github.com/user-attachments/assets/25e5cbda-1d61-412d-9dd1-93c0d9dc0dbf)
 ![prak_2](https://github.com/user-attachments/assets/baca12a7-2953-4fa8-868f-cd78b2b8f632)
