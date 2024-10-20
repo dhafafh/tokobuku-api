@@ -12,7 +12,9 @@ Melakukan Get, Pos, Update, dan Delete pada Buku:
 TUGAS PRAKTIKUM:
 Merancang Endpoint baru untuk mencari buku berdasarkan kategori atau judul
 ![tugas_1](https://github.com/user-attachments/assets/8c348faa-8908-481b-be3a-8ee3e411bdf1)
+Mencari Buku Berdasarkan Judul:
 ![tugas_2](https://github.com/user-attachments/assets/d0cda757-7d79-4332-9371-318bd10fa1c1)
+Mencari Buku Berdasarkan Kategori:
 ![tugas_3](https://github.com/user-attachments/assets/27b9dba1-60a6-4aa7-8a1a-951584b8b815)
 Uji API secara PUBLIK menggunakan ngrok:
 ![tugas_4](https://github.com/user-attachments/assets/3ebb8e9e-e8f1-41c1-9f74-e1a705b31485)
